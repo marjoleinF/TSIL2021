@@ -2,7 +2,7 @@
 
 This folder contains my experiments and presentation for Treatment Selection Idea Lab 2021 (TSIL2021).
 
-The file "TSIL presentation.pdf" contains the presentation slides. The file "TSIL-analyses.pdf" contains the scripts used for the analyses.
+The file "TSIL presentation.pdf" contains the presentation slides. The file "Lightning talk MF.pdf" contains the slides of the very short presentation from the panel sessions. The file "TSIL-analyses.pdf" contains the scripts and results from the analyses.
 
 Abstract:
 
